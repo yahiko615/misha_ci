@@ -1,0 +1,1 @@
+print('SOMETHING FOR HOMEWORK')
